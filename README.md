@@ -21,3 +21,4 @@ Units: SI
 ## Stage 0 files
 
 - simpleDragSim.m: A simple matlab script to practice matlab plotting
+- massSpringDamperSim.m: a simple MATLAB script to that plots spring-damper height
