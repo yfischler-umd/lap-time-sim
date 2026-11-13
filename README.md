@@ -7,7 +7,7 @@ Units: SI
 
 ## Progress
 
-0. Foundations: ball drop with drag, mass-spring-damper [progress]
+0. Foundations: ball drop with drag, mass-spring-damper [complete]
 1. Quarter-car ride model                               []
 2. Fixed-mu skidpad                                     []
 3. Straight-line acceleration + braking                 []
